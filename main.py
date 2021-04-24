@@ -13,7 +13,7 @@ HI = open("hello.txt", "r", encoding='utf-8').read()
 RULE = open("rule.txt", "r", encoding='utf-8').read()
 RULE_BOMB = open("rule_bomb.txt", "r", encoding='utf-8').read()
 SHOP = open("shop.txt", "r", encoding='utf-8').read()
-TOKEN = "ODM0ODU3OTUwMjE2MzIzMDcy.YIHADg.SAHOxMm-MJcw6JoYuKZK_Payhj0"
+TOKEN = ""
 MENU_CASINO = False
 START = True
 MENU_MINES = False
