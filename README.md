@@ -1,1 +1,1 @@
-https://discord.gg/RnFdVGrc3q
+https://discord.gg/RnFdVGrc3q подпишитесь на сервер и напишите боту в личные сообщенияя!
